@@ -1,4 +1,6 @@
 # Hello HTML
 Questo è il primo esercizio
 
-Ricorda sempre di fare commit!!
+Modalità esercizio 2
+
+- Ricorda sempre di fare commit e push per non perdere progressi!!
